@@ -2,6 +2,7 @@
 #include "Player.h"
 #include "Slime.h"
 #include "Goblin.h"
+#include "Boar.h"
 
 using namespace std;
 
