@@ -1,17 +1,46 @@
+//#include <iostream>
+//#include "Player.h"
+//#include "Slime.h"
+//#include "Goblin.h"
+//#include "Boar.h"
+//
+//using namespace std;
+//
+//int main() 
+//{
+//	FPlayer* Player = new FPlayer();
+//
+//	cout << Player << endl;
+//
+//	delete Player;
+//	return 0;
+//}
+
 #include <iostream>
-#include "Player.h"
-#include "Slime.h"
-#include "Goblin.h"
-#include "Boar.h"
 
 using namespace std;
 
-int main() 
+
+
+class A
 {
-	FPlayer* Player = new FPlayer();
 
-	cout << Player << endl;
+    int aa;
+public:
+    void BBBB(int a)
+    {
+        this->aa = a;
+        a = 1;
+    }
+};
 
-	delete Player;
-	return 0;
+int main()
+{
+    A* pA = nullptr;
+
+    pA->BBBB(3);
+
+    cout << pA;
+
+    return 0;
 }
