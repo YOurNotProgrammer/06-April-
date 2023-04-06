@@ -1,5 +1,5 @@
 #pragma once
-class Slime
+class FSlime
 {
 public:
 	//method, member function

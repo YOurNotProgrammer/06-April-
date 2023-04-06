@@ -1,9 +1,9 @@
 #include "Player.h"
 
-void Player::Attatck()
+void FPlayer::Attatck()
 {
 }
 
-void Player::Move()
+void FPlayer::Move()
 {
 }

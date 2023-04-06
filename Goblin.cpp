@@ -1,9 +1,9 @@
 #include "Goblin.h"
 
-void Goblin::Attatck()
+void FGoblin::Attatck()
 {
 }
 
-void Goblin::Move()
+void FGoblin::Move()
 {
 }

@@ -1,9 +1,9 @@
 #include "Slime.h"
 
-void Slime::Attatck()
+void FSlime::Attatck()
 {
 }
 
-void Slime::Move()
+void FSlime::Move()
 {
 }

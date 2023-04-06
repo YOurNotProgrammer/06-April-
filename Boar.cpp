@@ -1,9 +1,9 @@
 #include "Boar.h"
 
-void Boar::Attatck()
+void FBoar::Attatck()
 {
 }
 
-void Boar::Move()
+void FBoar::Move()
 {
 }

@@ -1,5 +1,5 @@
 #pragma once
-class Goblin
+class FGoblin
 {
 public:
 	//method, member function

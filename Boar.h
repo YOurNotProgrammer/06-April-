@@ -1,5 +1,5 @@
 #pragma once
-class Boar
+class FBoar
 {
 public:
 	//method, member function
