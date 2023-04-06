@@ -127,12 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="L20230406.cpp" />
-    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="Boar.cpp" />
+    <ClCompile Include="Goblin.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Slime.cpp" />
     <ClCompile Include="Player.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Monster.h" />
+    <ClInclude Include="Boar.h" />
+    <ClInclude Include="Goblin.h" />
+    <ClInclude Include="Slime.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
